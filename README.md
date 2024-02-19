@@ -6,7 +6,7 @@ This is a simple quiz application built using React Native and Expo. It fetches 
 * Fetch questions from the Trivia DB API
 * Display questions and multiple-choice answers
 
-#Technologies Used
+## Technologies Used
 * React Native
 * React Navigation
 * Expo
